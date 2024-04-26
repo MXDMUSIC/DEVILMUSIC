@@ -1,5 +1,5 @@
 <h2 align="center">
-    ─「 𝙳𝙴𝚅𝙸𝙻 𝘅 𝐌ᴜsɪᴄ 」─
+    ─「𝐃𝙴𝚅𝙸𝙻 𝘅 𝐌ᴜsɪᴄ 」─
 
 </h2>
 
@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/b61227af05544deb76a34.jpg">
+  <img src="https://telegra.ph/file/3ba820aa571c715e7aae8.jpg">
 </p>
 
 
@@ -25,7 +25,7 @@
 
 <p>
 <a href="https://t.me/StringSesssionGeneratorRobot-Gen"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
-<a href="https://t.me/MxD_SMusic_Bot-Gen"><img src="https://img.shields.io/badge/DEVIL%20MUSIC%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+<a href="https://t.me/MxD_Music_Bot-Gen"><img src="https://img.shields.io/badge/DEVIL%20MUSIC%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 
 
 <h3 align="center">
@@ -40,10 +40,10 @@
 
 
 <p align="center">
-<a href="https://telegram.me/Monu_Gupta_01"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Monu_Gupta_01"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗗𝗘𝗩𝗜𝗟%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/ITSZ_SHIVANSH"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗦𝗛𝗨𝗞𝗟𝗔%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Xd_Devil0"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗗𝗘𝗩𝗜𝗟%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
@@ -77,4 +77,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 ━━━━━━━━━━━━━━━━━━━━
 ### Contact :
-<a href="https://t.me/SHIVANSH474"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/Devil_World_01"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
