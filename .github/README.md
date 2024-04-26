@@ -35,12 +35,12 @@
 </h3>
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/SHIVANSH475/SHUKLA-MUSIC2.0"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/MXDMUSIC/DEVILMUSIC"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
 
 
 
 <p align="center">
-<a href="https://telegram.me/SHIVANSH39"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Monu_Gupta_01"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
 <a href="https://telegram.me/ITSZ_SHIVANSH"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗦𝗛𝗨𝗞𝗟𝗔%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
@@ -49,7 +49,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/SHIVANSH475/SHIVANSH-MUSIC/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/MXDMUSIC/DEVILMUSIC/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -61,7 +61,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/SHIVANSH475/SHIVANSH-MUSIC && cd VIP-MUSIC`
+`git clone https://github.com/MXDMUSIC/DEVILMUSIC && cd VIP-MUSIC`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
